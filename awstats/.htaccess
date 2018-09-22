@@ -1,0 +1,4 @@
+AuthName "locus.ioe.edu.np statistics"
+AuthType Basic
+AuthUserFile /home/locus/locus/.awstats-htpasswd
+require valid-user

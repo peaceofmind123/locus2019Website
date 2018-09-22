@@ -1,0 +1,1 @@
+[Thu Sep 20 09:46:31.180970 2018] [fcgid:warn] [pid 27810] (32)Broken pipe: [client 10.100.53.198:59876] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: https://locus.pcampus.edu.np/locus-2015/

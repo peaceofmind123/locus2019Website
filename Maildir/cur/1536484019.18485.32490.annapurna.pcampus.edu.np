@@ -1,0 +1,99 @@
+From MAILER-DAEMON  Fri Oct 14 01:52:15 2016
+Return-Path: <>
+X-Original-To: locus@annapurna.ioe.edu.np
+Delivered-To: locus@annapurna.ioe.edu.np
+Received: by annapurna.ioe.edu.np (Postfix) id 3DAA643AB7C2; Fri, 14 Oct 2016 01:52:15 +0545 (NPT)
+Date: Fri, 14 Oct 2016 01:52:15 +0545 (NPT)
+From: MAILER-DAEMON@annapurna.ioe.edu.np (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: locus@annapurna.ioe.edu.np
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="4A5F143AB7C5.1476389235/annapurna.ioe.edu.np"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20161013200715.3DAA643AB7C2@annapurna.ioe.edu.np>
+
+This is a MIME-encapsulated message.
+
+--4A5F143AB7C5.1476389235/annapurna.ioe.edu.np
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host annapurna.ioe.edu.np.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<bjgurung10@gmail.com>: host alt1.gmail-smtp-in.l.google.com[173.194.72.26]
+    said: 421-4.7.0 [103.5.150.16      15] Our system has detected an unusual
+    rate of 421-4.7.0 unsolicited mail originating from your IP address. To
+    protect our 421-4.7.0 users from spam, mail sent from your IP address has
+    been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0
+    https://support.google.com/mail/?p=UnsolicitedRateLimitError to 421 4.7.0
+    review our Bulk Email Senders Guidelines. q130si12274740pgq.29 - gsmtp (in
+    reply to end of DATA command)
+
+--4A5F143AB7C5.1476389235/annapurna.ioe.edu.np
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; annapurna.ioe.edu.np
+X-Postfix-Queue-ID: 4A5F143AB7C5
+X-Postfix-Sender: rfc822; locus@annapurna.ioe.edu.np
+Arrival-Date: Sun,  9 Oct 2016 01:33:47 +0545 (NPT)
+
+Final-Recipient: rfc822; bjgurung10@gmail.com
+Action: failed
+Status: 4.7.0
+Remote-MTA: dns; alt1.gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 421-4.7.0 [103.5.150.16      15] Our system has detected
+    an unusual rate of 421-4.7.0 unsolicited mail originating from your IP
+    address. To protect our 421-4.7.0 users from spam, mail sent from your IP
+    address has been temporarily 421-4.7.0 rate limited. Please visit 421-4.7.0
+    https://support.google.com/mail/?p=UnsolicitedRateLimitError to 421 4.7.0
+    review our Bulk Email Senders Guidelines. q130si12274740pgq.29 - gsmtp
+
+--4A5F143AB7C5.1476389235/annapurna.ioe.edu.np
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <locus@annapurna.ioe.edu.np>
+Received: by annapurna.ioe.edu.np (Postfix, from userid 505)
+	id 4A5F143AB7C5; Sun,  9 Oct 2016 01:33:47 +0545 (NPT)
+To: bjgurung10@gmail.com
+Subject: [Locus Blog] Please moderate: "Call For Papers"
+X-PHP-Originating-Script: 505:class-phpmailer.php
+Date: Sat, 8 Oct 2016 19:48:47 +0000
+From: WordPress <wordpress@locus.ioe.edu.np>
+Message-ID: <c11e6d394ee9c81ba85af399d7fb6dc9@locus.ioe.edu.np>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Call For Papers" is waiting for your approval
+http://locus.ioe.edu.np/theblog/call-for-papers/
+
+Author: Mandila Jackson (IP: 107.175.1.130, 107-175-1-130-host.colocrossing.com)
+Email: darrelbaltzell@spambog.com
+URL: http://bit.ly/2da3Q7F
+Comment: 
+Thankѕ intended for giving thіs kind of weⅼl put tоgether cоntent. http://bit.ly/2da3Q7F
+
+Approve it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=approve&c=30#wpbody-content
+Trash it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=trash&c=30#wpbody-content
+Spam it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=spam&c=30#wpbody-content
+Currently 25 comments are waiting for approval. Please visit the moderation panel:
+http://locus.ioe.edu.np/theblog/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--4A5F143AB7C5.1476389235/annapurna.ioe.edu.np--
+

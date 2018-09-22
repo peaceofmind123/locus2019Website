@@ -1,0 +1,631 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201603 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.locus.ioe.edu.np.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2069                
+POS_TIME 2750                
+POS_VISITOR 13647               
+POS_DAY 19000               
+POS_DOMAIN 3531                
+POS_LOGIN 3761                
+POS_ROBOT 3916                
+POS_WORMS 4820                
+POS_EMAILSENDER 4951                
+POS_EMAILRECEIVER 5094                
+POS_SESSION 19651               
+POS_SIDER 19858               
+POS_FILETYPES 5229                
+POS_DOWNLOADS 5383                
+POS_OS 5431                
+POS_BROWSER 5710                
+POS_SCREENSIZE 6925                
+POS_UNKNOWNREFERER 6999                
+POS_UNKNOWNREFERERBROWSER 7734                
+POS_ORIGIN 8068                
+POS_SEREFERRALS 8209                
+POS_PAGEREFS 8376                
+POS_SEARCHWORDS 8980                
+POS_KEYWORDS 9160                
+POS_MISC 2414                
+POS_ERRORS 9249                
+POS_CLUSTER 3617                
+POS_SIDER_403 9364                
+POS_SIDER_400 9452                
+POS_SIDER_404 9534                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160401005828 500 82486 9200089101540
+FirstTime 20160302123851
+LastTime 20160331235821
+LastUpdate 20160401025703 500 0 499 0 0
+TotalVisits 179                 
+TotalUnique 132                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 142                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 1860 31 48 152097
+1 6 8 30835 66 81 64450
+2 7 7 4650 37 59 25079
+3 5 5 2250 36 60 156916
+4 5 5 2790 42 65 162128
+5 6 10 247514 21 36 15092
+6 7 7 4650 96 129 338118
+7 7 16 370184 26 48 267639
+8 16 28 499678 23 49 132631
+9 21 37 991916 151 190 367526
+10 4 6 123757 44 65 38803
+11 16 32 893414 145 172 379731
+12 11 25 740693 82 114 644728
+13 13 23 403036 32 58 28105
+14 7 9 126547 22 38 30752
+15 16 18 402347 52 72 38325
+16 8 16 493168 22 48 146486
+17 5 9 29635 133 158 614092
+18 8 12 249374 34 65 277526
+19 12 24 496078 42 74 42738
+20 24 59 1123542 120 173 389272
+21 17 35 1015322 51 79 48985
+22 12 22 371271 28 44 147915
+23 22 32 163892 34 57 28810
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 263 453 8788403
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+mj12bot 834 753564 20160331191415 0
+baiduspider 158 258286 20160331155749 0
+googlebot 155 1943516 20160331230828 0
+bingbot 77 786290 20160331192722 0
+bot[\s_+:,\.\;\/\\-] 57 150727 20160311091621 0
+favicon 15 13950 20160328014113 0
+no_user_agent 14 13020 20160329203740 0
+ahrefsbot 5 3731 20160325025208 0
+filterdb\.iss\.net 5 2812 20160320101258 0
+facebook 5 22315 20160330015140 0
+core 1 930 20160330093738 0
+blexbot 1 930 20160324070312 0
+bingpreview 3 122534 20160326184956 0
+libwww 2 1860 20160317025937 0
+php 1 930 20160321041434 0
+mail\.ru 4 3720 20160315094429 0
+phantom 3 122827 20160311091614 0
+slurp 1 930 20160315142003 0
+360spider 2 671 20160303074031 0
+surveybot 1 930 20160324005718 0
+turnitinbot 1 11 20160301214142 0
+w3c_validator 1 930 20160311091616 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+map 6 326496 0 0
+css 170 8046219 0 0
+php 257 175197 0 0
+png 15 218176 0 0
+gif 5 22315 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 25 9
+winlong 2 2
+winxp 17 15
+ios_iphone 19 7
+win2000 10 10
+winunknown 4 4
+j2me 3 1
+ios_ipad 3 1
+linuxubuntu 6 2
+linux 145 61
+win7 66 45
+macosx10 3 1
+win8.1 24 14
+win10 25 11
+Unknown 99 78
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 62
+chrome44.0.2403.125 1 1
+firefox28.0 2 2
+msie6.0 11 11
+chrome50.0.2638.0 3 1
+firefox44.0 37 15
+chrome38.0.2145.61 1 1
+android 9 3
+chrome43.0.2357.124 1 1
+strata 8 8
+chrome48.0.2564.116 46 18
+chrome28.0.1500.94 3 1
+chrome19.0.1062.0 1 1
+firefox18.0 2 2
+firefox4.0 3 3
+firefox34.0 2 2
+safari8.0.7 3 1
+chrome39.0.0.0 3 1
+msie8.0 2 1
+firefox6.0.2 7 5
+firefox43.0 6 4
+chrome47.0.2526.111 3 3
+msie7.0 3 3
+chrome37.0.2062.120 5 5
+firefox41.0 11 7
+chrome49.0.2623.91 6 2
+safari8.0 6 2
+chrome26.0.1410.43 1 1
+msie9.0 1 1
+Unknown 69 62
+chrome30.0.0.0 3 1
+chrome45.0.2454.99 4 4
+opera12.16 24 8
+firefox40.0 37 19
+firefox42.0 1 1
+chrome49.0.2623.87 35 13
+chrome18.0.1025.166 1 1
+chrome34.0.1847.131 1 1
+chrome48.0.2564.82 3 1
+firefox21.0 7 7
+firefox29.0 1 1
+opera35.0.2066.92 3 1
+firefox38.0 6 2
+chrome49.0.2623.75 18 6
+firefox45.0 16 6
+chrome46.0.2490.80 3 1
+safari9.0 6 2
+mozilla 1 1
+chrome45.0.2454.101 1 1
+chrome48.0.2564.109 1 1
+netscape5.0 6 2
+opera34.0.2036.50 1 1
+safari5.1 1 1
+firefox6.0 1 1
+firefox3.6.12 3 3
+chrome39.0.2171.99 1 1
+chrome48.0.2564.103 1 1
+chrome41.0.2220.0 1 1
+firefox3.6.3 2 2
+chrome41.0.2228.0 1 1
+firefox36.0 3 1
+safari 3 1
+chrome48.0.2564.97 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Stratagems_Kumo 20160320204452
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20160310130132
+visionutils/0.2 20160313202909
+Ruby 20160304005916
+woobot 20160311091612
+SiteAnalyzerBot 20160311092741
+Opera/9.80_(Android;_Opera_Mini/15.0.2125/37.7936;_U;_en)_Presto/2.12.423_Version/12.16 20160311123639
+Opera/9.80_(Android;_Opera_Mini/12.0.1987/37.7936;_U;_en)_Presto/2.12.423_Version/12.16 20160304010855
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.1.2;_en-US;_GT-S6810P)_U2/1.0.0_UCBrowser/10.6.8.732_U2/1.0.0_Mobile 20160313154502
+Go-http-client/1.1 20160327201959
+Opera/9.80_(Android;_Opera_Mini/13.0.2036/37.7936;_U;_en)_Presto/2.12.423_Version/12.16 20160310215200
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.1.2;_en-US;_GT-S6810P)_U2/1.0.0_UCBrowser/10.6.8.732_U2/1.0.0_Mobile 20160313154502
+visionutils/0.2 20160313202909
+Ruby 20160304005916
+woobot 20160311091612
+Go-http-client/1.1 20160327201959
+SiteAnalyzerBot 20160311092741
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 208 215
+From1 0 0
+From2 13 13
+From3 29 29
+From4 13 196
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 10 10
+baidu 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 15
+https://www.facebook.com 6 6
+http://solby.com.ua 4 4
+http://locus.com.np 3 3
+https://github.com 2 2
+http://m.facebook.com 2 2
+http://burger-imperia.com 2 2
+http://solby.com.ua 2 2
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+http://www.locus.com.np 1 1
+http://hvd-store.com 1 1
+http://locus.com.np 1 1
+http://www.ku.edu.np/news/index.php 1 1
+http://www.ioe.edu.np 1 1
+http://techsansar.com/nepali-it/locus-to-start-at-ioe-pulchowk-campus/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+locus2016 2
+locus+pulchok 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+locus2016 2
+pulchok 1
+locus 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 1 202
+206 22 224388
+404 499 107940
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/ 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 78
+/notices/1928Dip%202072%20kartik%20All%20I%20part%20Back.pdf 1 -
+/robots.txt 17 -
+/notices/4276BE%202069%20Ashadh%20All%20I%20part%20_New%20Back.pdf 1 -
+/notices/9775bex%204-2.PDF 1 -
+/notices/5455MSc_Geotech_Sustainable.pdf 1 -
+/notices/6285Masters%20form%20Notice.PDF 1 -
+/notices/3710BEL_4_1.PDF 1 -
+/notices/5497Routine%20Diploma%20Regular&Back%20Chaitra.pdf 1 -
+/notices/8537Routine%20BE%202069%20Poush%20Back%20Exam%20Old%20II%20part.pdf 1 -
+/notices/9177MSC%20II-I.PDF 1 -
+/notices/3385BE-ALL-I-I-OLDCOURSE-10-20.pdf 1 -
+/notices/5869BCE%20%20(II-I).PDF 1 -
+/notices/5653BE%20_New_IV_I%202069_02_25.pdf 1 -
+/notices/411Dip%202072%20Chaitra%20All%20I%20part%20RB.pdf 1 -
+/marksheet.php 3 -
+/notices/2942BE%202069%20Bhadra%20Old%20Back%20and%20R_B%20II%20part.pdf 1 -
+/notices/3248Diploma%20III_I%20Back%20Result.pdf 1 -
+/notices/6397BE%20IV-I.PDF 1 -
+/notices/3349Result%20BE%20I_II%20Old%20&%20New%20Back%20Exam%202069%20Poush.jpg 1 -
+/notices/7807MSc%202068%20Chaitra%20TIM%20I_II.pdf 1 -
+/notices/6199BE%2020670%20Ashadh%20All%20I%20part%20New%20Back.pdf 1 -
+/javascript/get_code.js 2 -
+/notices/7361MSc%20Thesis%20Result.pdf 1 -
+/notices/3371Dip%20(2-1).PDF 1 -
+/notices/278BE%2020670%20Ashadh%20All%20I%20part%20New%20Back.pdf 1 -
+/notices/5262Diploma%20II%20part%20Back%20Exam%202068%20Magh.pdf 1 -
+/notices/9725BE%202072%20Magh-back%20Old%20Back%20and%20R_B%20II%20part.pdf 1 -
+/notices/5466BE%202069%20Ashadh%20_I%20part%20Old%20Back.pdf 1 -
+/notices/448BE%20IV_I%20BArch%20V_I%20Back%20Result%20068_06_04.pdf 2 -
+/notices/716BE%202069%20bhadra%20Regular%20-%20New%20Course.pdf 1 -
+/notices/201Result%20BArch_BEL_BIE_IV_II.pdf 1 -
+/notices/8517Dip%202070%20Ashadh%20All%20I%20part%20Back.pdf 1 -
+/notices/9068dip%202-2.PDF 1 -
+/notices/2509be1-2.PDF 1 -
+/notices/826Dip%202069%20Bhadra%20-%20II%20Part%20_R&B_.pdf 1 -
+/notices/2116ERC-1.PDF 1 -
+/notices/8342BE%202072%20Chaitra%20All%20I%20part%20Regular.pdf 1 -
+/notices/4099BE%20II_I%20Back%20New%20Result.pdf 2 -
+/notices/9087result.PDF 1 -
+/notices/5518BCEII.PDF 1 -
+/notices/2062Dip%202072%20Magh%20-%20II%20Part%20(R&B).pdf 1 -
+/notices/3850Retotaling%20Result%20(1-1).PDF 1 -
+/notices/6032BE%20I_I%20BAgri%20&%20TC%20BArch%20IV_I%20&%20V_I%20Regular.jpg 2 -
+/notices/325bae4-2.PDF 1 -
+/notices/6185BE%20II_I%20&%20III_I%20New%20Back%202069_Ashadh.jpg 1 -
+/notice.php 4 -
+/facebook.com/locus.ioe 3 http://locus.ioe.edu.np/
+/notices/6824Diploma%20III_I.pdf 1 -
+/notices/8750dip.PDF 1 -
+/notices/1598BE%202072Magh-back-%20New%20Regular%20II%20part.pdf 1 -
+/notices/618Result%20BCE%20BME%20IV_II.pdf 1 -
+/notices/5845Diploma%20Architecture%20III_II.pdf 1 -
+/notices/BE%202069%20Chaitra%20All%20I%20Part%20Regular%20Revised.pdf 1 -
+/notices/Academic%20Calendar%20MSc%202069.pdf 1 -
+/javascript/jquery.js 1 http://locus.ioe.edu.np/
+/notices/1132Notice-Routine-2072-Regular-Chaitra.pdf 1 -
+/notices/3565BE%202072%20Chaitra%20All%20I%20part%20Old%20Back.pdf 1 -
+/notices/6960Routine%20BE%20Regular.pdf 2 -
+/notices/2927Back_Exam%20Form%20Notice.pdf 1 -
+/notices/2067MSEQ%20MSS%20MSTIM.PDF 1 -
+/notices/9749Result%20BArch%20II_II%20BCE%20II_II%20&%20BArch%20III_II.jpg 1 -
+/notices/5835BEL%20BEX%20BCT%20II-II.PDF 1 -
+/notices/9748BEL,BIE%20(IV-I).PDF 1 -
+/notices/462be%20old%20all.PDF 1 -
+/notices/4218Masters.PDF 1 -
+/notices/8113center.PDF 1 -
+/notices/4337Dip%20(3-1).PDF 1 -
+/notices/9028Back_Exam%20Routine%2025_08_2068.pdf 1 -
+/notices/3553BE%202072%20kartik%20All%20I%20part%20Old%20Back.pdf 1 -
+/notices/7732renotice.PDF 1 -
+/notices/8207Dip%202069%20Poush%20II%20Part%20Back.pdf 1 -
+/index.php 8 -
+/notices/8762be4-1%20except%20BCT,%20Bagri.PDF 1 -
+/serch.css 2 -
+/notices/7773Masters%20(5-4).PDF 1 -
+/notices/9328IMG.pdf 1 -
+/notices/5792Diploma%20Back_Exam%20Routine%2025_08_2068.pdf 1 -
+/notices/9805Reotaling%20Result.jpg 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 142
+54.165.90.232 54 54 0 20160304005916
+103.5.150.6 13 35 643121 20160317231502
+103.5.150.2 12 22 671396 20160316090911
+163.172.7.229 8 8 7170 20160320204452
+182.93.71.90 7 17 425688 20160317215806
+62.149.133.176 6 6 5580 20160327195141
+62.149.133.73 4 4 3720 20160329132932
+103.10.29.23 4 10 273699 20160311214420
+49.244.102.134 4 12 125619 20160306204706
+192.99.233.163 4 6 125617 20160311092748
+43.231.208.124 1 3 930 20160319195054
+52.5.69.31 1 1 930 20160311091616
+27.34.33.241 3 5 124687 20160313085918
+117.177.250.151 1 1 930 20160329081319
+217.69.133.169 1 1 930 20160322163843
+82.145.211.76 1 3 28045 20160303131637
+123.125.71.33 1 1 930 20160331235821
+103.192.77.66 1 3 122827 20160312163838
+27.34.61.135 1 3 122827 20160319214359
+110.44.115.118 3 7 246584 20160326115354
+91.200.12.97 2 2 1320 20160303192522
+49.244.66.89 1 3 122827 20160317223053
+83.234.80.9 1 1 930 20160327042847
+144.76.7.101 2 2 1590 20160325020048
+52.5.133.46 2 2 1860 20160311091620
+202.70.70.207 1 3 122827 20160311123729
+120.89.106.72 1 3 122827 20160313195812
+92.19.72.138 1 1 930 20160326063839
+27.34.68.250 1 3 122827 20160311161642
+74.208.174.15 1 1 930 20160329081312
+185.96.192.118 3 3 2790 20160330211112
+176.9.136.47 1 1 930 20160317062006
+103.192.79.34 1 3 122827 20160314072439
+74.91.26.114 1 1 930 20160314035856
+104.131.76.188 2 2 1860 20160314115310
+167.114.237.177 1 1 930 20160310183927
+37.57.231.239 3 3 2790 20160323212345
+103.192.77.215 1 3 28045 20160303230240
+141.0.15.147 1 3 122827 20160331110045
+27.34.86.245 1 3 122827 20160320190118
+195.81.164.21 1 1 930 20160311090442
+64.233.173.19 1 4 123464 20160312112156
+109.201.133.100 1 1 930 20160321122504
+123.125.71.20 0 1 121260 
+202.51.82.103 1 3 122827 20160314112940
+220.244.37.79 1 3 122827 20160325161935
+66.249.88.141 0 2 121897 
+61.135.190.220 1 1 930 20160330060803
+51.255.198.113 1 1 660 20160304200509
+66.220.145.244 0 1 637 
+52.7.32.143 1 3 122827 20160311091613
+45.55.133.249 1 1 930 20160331110437
+173.252.95.19 0 2 8926 
+167.114.235.72 2 2 1860 20160327201959
+202.51.82.117 1 3 122828 20160306202042
+110.34.0.174 1 3 122827 20160328121844
+94.23.149.100 1 1 930 20160324160838
+49.244.32.18 1 3 122827 20160321183859
+64.233.173.14 1 2 122190 20160313194339
+61.135.190.104 1 1 930 20160330055548
+62.243.83.44 1 1 930 20160311063203
+141.0.14.57 1 3 122827 20160310215159
+54.193.16.75 1 1 930 20160312002218
+54.152.77.211 2 4 122827 20160311091612
+45.55.134.5 1 1 930 20160323013105
+50.16.38.41 1 1 930 20160314110704
+123.125.71.114 1 1 930 20160312130914
+200.219.209.134 3 3 2790 20160331234349
+182.118.53.139 1 2 773 20160303074035
+37.46.43.105 1 1 930 20160313225702
+65.19.167.131 1 1 930 20160320011530
+103.233.57.4 2 4 123757 20160314130346
+202.51.82.99 1 3 122827 20160314134953
+123.125.71.40 0 1 637 
+82.145.216.118 2 6 28705 20160303173925
+195.154.146.225 1 1 930 20160314125151
+103.192.76.35 2 6 123757 20160311191934
+82.145.210.183 2 6 123757 20160311123638
+134.249.53.96 1 1 930 20160314091428
+111.206.36.134 1 1 930 20160314095915
+178.49.154.140 1 1 930 20160315213412
+37.57.231.204 1 1 930 20160328231609
+31.13.105.118 0 1 4463 
+103.192.76.85 1 3 930 20160317070225
+158.69.211.88 1 1 930 20160311221733
+94.23.51.20 1 1 930 20160322022136
+123.125.71.53 0 1 121260 
+49.244.2.172 1 3 122827 20160329162629
+202.70.74.198 1 3 122827 20160316141634
+62.212.73.49 1 1 930 20160312232520
+45.55.229.95 1 1 930 20160330185523
+182.93.74.39 1 3 122827 20160312114714
+66.249.88.151 1 1 930 20160311091614
+138.201.0.109 1 1 930 20160329081317
+151.80.40.50 1 1 930 20160311215349
+27.34.12.181 1 3 122827 20160314101206
+123.125.71.47 0 1 637 
+104.131.84.162 1 1 930 20160330185223
+49.244.87.50 1 3 28045 20160303200751
+27.34.110.110 3 7 246584 20160312090515
+188.163.78.47 1 1 930 20160313132729
+8.37.234.38 2 6 245654 20160311220956
+192.99.32.77 1 1 11 20160302123851
+49.244.101.162 1 3 0 20160304200514
+45.55.229.140 1 1 930 20160322144525
+43.231.211.45 1 3 930 20160318085041
+62.85.3.70 1 1 930 20160331080115
+159.245.64.2 1 3 122827 20160322054050
+27.34.16.114 1 3 122827 20160313071555
+103.5.150.199 2 4 123757 20160318110052
+27.34.84.203 1 3 122828 20160306203119
+45.55.134.8 1 1 930 20160322144438
+31.13.105.112 0 1 4463 
+123.125.71.73 1 1 930 20160310200950
+46.229.167.149 1 1 930 20160330050722
+103.192.79.92 1 3 122827 20160313204137
+173.252.95.23 0 1 4463 
+178.168.52.171 1 1 930 20160324155749
+144.76.221.149 1 1 660 20160303031137
+27.34.94.59 1 3 122827 20160314122729
+117.177.250.152 1 1 930 20160317153513
+188.93.56.216 1 1 930 20160311025947
+122.151.188.127 1 3 122827 20160310191740
+123.125.71.69 1 1 930 20160311040627
+103.10.29.22 1 3 122827 20160330211912
+8.37.228.51 1 3 122827 20160313154502
+141.0.14.227 1 3 28045 20160304010855
+178.162.199.90 1 1 930 20160325230559
+38.99.62.91 1 1 930 20160310130132
+66.220.145.246 1 2 122190 20160320123640
+163.172.194.28 1 1 930 20160329100033
+65.19.167.130 1 1 930 20160313124247
+104.236.120.134 2 2 1860 20160322144422
+139.94.249.147 1 3 122827 20160331055938
+103.57.206.2 1 3 122827 20160311202025
+131.0.168.84 1 1 930 20160329081304
+45.55.134.13 1 1 930 20160331221012
+141.0.14.218 1 3 122827 20160311211405
+54.167.186.212 1 1 930 20160323025533
+49.244.156.51 1 3 122827 20160312092753
+180.76.15.30 1 1 930 20160314085903
+31.11.133.66 1 1 930 20160324201247
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20160302 11 21 28067 3
+20160303 59 72 144958 20
+20160304 8 14 28705 5
+20160306 11 31 578424 6
+20160310 16 26 769898 9
+20160311 30 62 1733528 24
+20160312 15 31 989126 13
+20160313 12 29 764857 10
+20160314 17 31 869089 15
+20160315 2 4 123757 2
+20160316 6 14 493168 4
+20160317 8 14 251234 8
+20160318 3 7 124687 2
+20160319 3 7 124687 3
+20160320 6 10 249374 6
+20160321 3 5 124687 3
+20160322 8 10 129337 7
+20160323 6 6 5580 5
+20160324 3 3 2790 3
+20160325 3 5 124687 3
+20160326 4 8 247514 2
+20160327 3 3 2790 3
+20160328 2 4 123757 2
+20160329 8 10 129337 7
+20160330 7 11 250304 7
+20160331 9 15 374061 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 2
+0s-30s 159
+15mn-30mn 2
+2mn-5mn 1
+30s-2mn 4
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 257 175197 179 177
+/css/bootstrap.min.css.map 6 326496 0 2
+END_SIDER

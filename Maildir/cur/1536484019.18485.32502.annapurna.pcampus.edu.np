@@ -1,0 +1,23 @@
+From webmin@sagarmatha.pcampus.edu.np  Mon Jul 30 06:27:27 2018
+Return-Path: <webmin@sagarmatha.pcampus.edu.np>
+X-Original-To: locus@sagarmatha.pcampus.edu.np
+Delivered-To: locus@sagarmatha.pcampus.edu.np
+Received: by sagarmatha.pcampus.edu.np (Postfix, from userid 0) id 6D4C7C03E6; Mon, 30 Jul 2018 06:27:27 +0545 (+0545)
+From: webmin@sagarmatha.pcampus.edu.np
+To: locus@sagarmatha.pcampus.edu.np
+Subject: Let's Encrypt certificate renewal complete
+Date: Mon, 30 Jul 2018 06:27:26 +0545 (+0545)
+Message-Id: <1532911346.31563.1@sagarmatha.pcampus.edu.np>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bound1532911346"
+
+This is a multi-part message in MIME format.
+
+--bound1532911346
+Content-type: text/plain
+
+A new certificate was successfully requested from Let's Encrypt, and installed for locus.pcampus.edu.np.
+
+--bound1532911346--
+
+

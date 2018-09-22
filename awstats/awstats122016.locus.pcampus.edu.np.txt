@@ -1,0 +1,545 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201612 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.locus.pcampus.edu.np.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2073                
+POS_TIME 2762                
+POS_VISITOR 8932                
+POS_DAY 14527               
+POS_DOMAIN 3632                
+POS_LOGIN 3864                
+POS_ROBOT 4019                
+POS_WORMS 4725                
+POS_EMAILSENDER 4856                
+POS_EMAILRECEIVER 4999                
+POS_SESSION 14744               
+POS_SIDER 14945               
+POS_FILETYPES 5134                
+POS_DOWNLOADS 5407                
+POS_OS 5516                
+POS_BROWSER 5740                
+POS_SCREENSIZE 6317                
+POS_UNKNOWNREFERER 6391                
+POS_UNKNOWNREFERERBROWSER 6581                
+POS_ORIGIN 6663                
+POS_SEREFERRALS 6804                
+POS_PAGEREFS 6961                
+POS_SEARCHWORDS 7135                
+POS_KEYWORDS 7300                
+POS_MISC 2424                
+POS_ERRORS 7374                
+POS_CLUSTER 3720                
+POS_SIDER_403 7532                
+POS_SIDER_400 7764                
+POS_SIDER_404 7846                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170101000151 10886 2278969 9176593032345
+FirstTime 20161226033930
+LastTime 20161231224502
+LastUpdate 20170101025702 1643 0 1642 0 0
+TotalVisits 149                 
+TotalUnique 142                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 151                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 131 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 6352 213 230 293047
+1 3 3 84589 73 82 349253
+2 18 18 12704 124 135 350597
+3 14 14 126039 115 125 307547
+4 12 12 6352 116 124 117814
+5 8 8 0 228 240 576088
+6 12 12 97430 203 232 735214
+7 11 11 91078 125 136 56462
+8 6 8 109414 201 208 301294
+9 13 17 272988 211 254 912918
+10 89 363 11138812 244 307 1744796
+11 239 459 10390579 630 655 282047
+12 61 228 5490429 413 535 4171593
+13 140 202 7385486 253 293 425832
+14 12 66 2198446 420 437 530018
+15 19 125 4271903 464 479 610620
+16 36 215 4638396 249 269 247843
+17 27 35 892350 554 579 330368
+18 16 197 5454880 247 276 342862
+19 28 187 5137839 544 566 111096
+20 26 71 1997232 560 584 597535
+21 46 178 5516080 394 445 1044994
+22 94 288 9416425 350 409 1591298
+23 15 64 1994706 473 493 470207
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 956 2792 76730509
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+bingpreview 100 3796266 20161227120019 0
+googlebot 97 1943675 20161230184446 3
+googlebot\-image 86 3090144 20161231220732 0
+baiduspider 76 1489362 20161231193356 0
+facebook 45 2126249 20161231233245 0
+wordpress 18 0 20161227124342 0
+bingbot 12 339331 20161227121147 4
+no_user_agent 6 127228 20161227150050 0
+dotbot 4 56351 20161227032449 2
+mj12bot 4 84860 20161227145132 2
+unknown 3 201 20161227095233 3
+ahrefsbot 1 471282 20161226104942 0
+surveybot 1 42363 20161227011156 0
+favicon 3 185644 20161227090950 0
+semrushbot 1 67 20161226233425 1
+yandex 3 1602 20161226174015 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 530 8862302 0 0
+png 409 18321898 0 0
+ttf 1 112160 0 0
+pdf 2 64766 0 0
+woff2 8 454240 0 0
+woff 21 1380548 0 0
+php 926 23797435 0 0
+js 553 14140057 0 0
+jpg 295 9276341 0 0
+svg 8 12168 0 0
+gif 39 308594 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/leevent/wp-content/uploads/sites/3/2016/05/CV.pdf 2 0 64766
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linuxandroid 272 12
+winxp 14 13
+ios_iphone 3 0
+win2000 1 1
+linuxubuntu 381 168
+linux 239 13
+win7 533 340
+win8 122 74
+win10 989 324
+Unknown 55 1
+win8.1 183 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+firefox50.0 287 100
+msie6.0 14 14
+opera12.17 2 2
+chrome52.0.2743.116 3 3
+chrome55.0.2883.87 1711 565
+opera12.16 55 1
+chrome53.0.2785.143 2 2
+chrome55.0.2883.91 102 4
+chrome54.0.2840.90 141 7
+firefox4.0 1 1
+opera41.1.2246.111645 51 2
+chrome12.0.742.112 1 1
+firefox47.0 51 2
+msie11.0 1 1
+chrome45.0.2454.93 1 1
+firefox40.1 237 237
+chrome52.0.2743.98 68 4
+opera36.0.2130.32 4 4
+safari8.0 1 0
+chrome48.0.2564.106 51 2
+chrome54.0.2840.59 1 0
+firefox35.0 1 1
+chrome48.0.2564.97 2 2
+safari 2 0
+chrome14.0.835.202 1 0
+firefox11.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Opera/9.80_(Android;_Opera_Mini/19.0.2254/37.9178;_U;_en)_Presto/2.12.423_Version/12.16 20161226140241
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 666 878
+From1 0 0
+From2 14 48
+From3 1 1
+From4 275 1865
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 14 48
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+locous+ioe 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+ioe 1
+locous 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 14 52051
+302 7384 22106
+206 45 1150482
+500 9 694412
+404 21 710526
+301 29 4706
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 3
+/wp-admin/ 11 http://locus.ioe.edu.np/
+/leevent/wp-content/plugins/akismet/akismet.php 1 -
+/theblog/wp-admin/ 2 https://locus.ioe.edu.np/wp-login.php
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/ 2 -
+/administration/modules.php 2 http://locus.ioe.edu.np/administration/modules.php
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 2 -
+/leevent/category/uncategorized/ 1 -
+/%3Cscript%20type=%22text/javascript%22%3E%20$(document).ready(function()%20%7B%20$(' 1 -
+/wp-content/themes/wumblr/themify/js/utils.js 1 http://locus.ioe.edu.np/wp-content/themes/wumblr/themify/js/utils.js
+/wpadmin/login.php 1 -
+/leevent/ 1 -
+/wpadmin 1 -
+/wp-admin/login.php 2 -
+/.well-known/assetlinks.json 1 -
+/.well-known/apple-app-site-association 1 -
+/theblog/call-for-articles/administration/modules.php 2 http://locus.ioe.edu.np/theblog/call-for-articles/administration/modules.php
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 2 -
+/apple-app-site-association 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 151
+103.5.150.2 315 660 19120281 20161227122938
+111.119.45.138 105 281 9400690 20161226220740
+103.5.150.189 98 288 7931557 20161227160302
+103.192.76.46 62 99 1599957 20161229115930
+45.123.223.116 37 61 1117811 20161228123431
+188.143.232.41 11 11 437274 20161226170028
+103.235.196.11 10 182 4443687 20161226171748
+45.123.221.165 9 17 477966 20161227173148
+103.5.150.6 7 50 1743188 20161226215553
+27.34.17.50 7 141 3809785 20161227124344
+59.90.159.203 2 2 0 20161229033427
+47.8.27.27 2 2 0 20161228124907
+78.101.100.119 2 2 0 20161228124318
+139.5.68.101 2 49 1786548 20161226184912
+124.104.35.21 2 2 0 20161227215617
+62.205.120.114 4 4 6352 20161227063920
+62.198.110.118 2 2 0 20161231080158
+188.143.232.14 2 2 119687 20161226033947
+154.100.126.105 1 1 0 20161231150731
+5.133.153.205 2 2 0 20161228234428
+117.214.114.97 2 2 0 20161231082356
+94.242.246.24 1 1 42363 20161227070849
+62.29.89.198 2 2 0 20161231143640
+104.188.249.49 0 1 32383 
+123.231.104.104 2 2 0 20161230235122
+212.56.151.245 2 2 0 20161231093553
+176.146.189.201 2 2 0 20161231194309
+174.255.130.24 0 2 109414 
+212.171.237.82 2 2 0 20161228174820
+105.101.121.9 2 2 0 20161231214512
+45.116.233.10 2 2 0 20161231123032
+219.91.152.93 2 2 0 20161231131652
+202.51.92.222 3 53 1950224 20161226210043
+121.58.221.173 2 2 0 20161228083105
+74.67.104.55 2 2 0 20161228171619
+178.167.254.133 4 4 6352 20161226040021
+202.79.34.70 6 99 3036187 20161227105627
+157.50.246.231 2 2 0 20161231212534
+49.128.160.58 2 2 0 20161231000307
+93.33.8.112 4 4 6352 20161227024551
+120.28.191.1 1 1 0 20161230131315
+185.41.84.71 2 2 0 20161228205308
+212.30.77.197 2 2 0 20161229054727
+103.224.156.82 2 2 0 20161231224502
+73.12.140.80 2 2 0 20161228052345
+64.233.173.154 1 19 505493 20161226191955
+146.185.223.47 2 2 69119 20161226223639
+36.84.225.120 1 1 0 20161229071128
+171.79.74.224 2 2 0 20161228200533
+94.23.40.23 1 1 42363 20161226131926
+192.198.108.110 1 1 100918 20161227144430
+105.158.230.98 2 2 0 20161228231946
+41.241.4.104 2 2 0 20161231195509
+98.114.196.99 4 4 6352 20161226222710
+177.107.245.81 2 2 0 20161229200114
+73.53.17.241 2 2 0 20161229104752
+124.41.219.215 0 1 7162 
+117.199.71.154 2 2 0 20161230071528
+139.5.68.1 2 51 1893788 20161226191953
+112.198.72.35 4 4 6352 20161227061349
+182.65.38.191 2 2 0 20161231042239
+39.53.39.147 4 4 6352 20161227143932
+27.147.203.152 2 2 0 20161231190709
+117.216.12.28 2 2 0 20161226164519
+62.211.155.189 4 4 6352 20161226154400
+180.181.151.97 2 2 0 20161231102659
+219.91.227.19 2 2 0 20161231221922
+94.111.162.237 2 2 0 20161230043354
+39.51.96.130 2 2 0 20161227224025
+64.233.173.152 2 23 801633 20161226192051
+49.244.103.173 2 51 1893788 20161226104717
+94.167.248.103 1 1 0 20161228003949
+75.118.254.109 2 2 0 20161231184512
+202.70.70.240 2 51 1893788 20161226105231
+45.248.28.184 2 2 0 20161229113637
+103.51.18.40 0 1 84849 
+117.218.186.164 2 2 0 20161229021246
+130.43.127.191 4 4 6352 20161226163908
+73.192.90.60 2 2 0 20161229052329
+183.82.223.117 2 2 0 20161231165553
+65.19.167.131 1 1 42363 20161226171007
+139.167.133.81 2 2 0 20161230191600
+39.48.104.189 2 2 0 20161227221418
+80.195.54.112 2 2 0 20161230061236
+197.210.167.150 2 2 0 20161231173030
+5.13.74.106 2 2 0 20161228024616
+112.198.72.82 2 2 0 20161231121148
+202.51.82.110 2 51 1893788 20161226232506
+219.92.195.214 4 4 6352 20161226190951
+31.11.34.44 1 1 42363 20161226190952
+186.151.103.25 2 2 0 20161229033503
+80.240.50.176 4 4 6352 20161226204921
+202.47.116.121 4 4 6352 20161227071536
+82.145.223.78 1 55 2048813 20161226140233
+31.184.194.91 2 2 5942 20161226090333
+109.146.47.65 2 2 0 20161229001859
+59.189.200.43 2 2 0 20161227205006
+94.156.0.4 2 2 0 20161228180435
+120.89.109.163 0 2 179140 
+110.159.132.208 2 2 0 20161229145704
+23.19.153.9 3 3 84589 20161227014755
+122.60.66.68 2 2 0 20161231024558
+95.95.31.4 4 4 6352 20161227035141
+139.5.68.15 1 1 100918 20161227103702
+185.150.232.2 4 4 6352 20161226130200
+181.21.149.40 2 2 0 20161227235303
+207.53.197.175 1 1 0 20161231163650
+123.231.121.234 2 2 0 20161230234512
+109.51.130.157 2 2 0 20161227172027
+78.9.183.90 2 2 0 20161231034653
+100.15.133.221 1 1 0 20161229141327
+103.215.226.80 2 2 0 20161227232724
+49.244.11.249 0 1 53977 
+97.93.206.237 4 4 6352 20161227093417
+220.227.97.99 0 1 32383 
+98.216.3.159 4 4 6352 20161227005255
+103.218.177.236 4 4 6352 20161227114129
+85.65.0.66 2 2 0 20161229042849
+103.235.196.1 3 54 2018180 20161226220200
+154.70.19.159 2 2 0 20161230191851
+91.121.77.37 1 1 42363 20161226072452
+150.107.241.122 2 2 0 20161230053713
+198.8.80.29 2 2 0 20161228005259
+178.137.83.166 2 2 84726 20161226065419
+46.229.167.149 1 1 42363 20161227143854
+217.217.166.26 2 2 0 20161229024430
+122.166.154.39 2 2 0 20161231041051
+81.16.205.224 2 2 0 20161229181836
+150.107.205.248 2 51 1893788 20161227152316
+179.155.228.98 2 2 0 20161228094448
+103.6.159.239 4 4 6352 20161226200035
+47.8.116.3 2 2 0 20161231184439
+220.181.51.81 1 1 42363 20161226195224
+179.57.133.141 2 2 0 20161226113305
+178.137.83.79 2 2 84726 20161227095236
+81.20.255.145 2 2 0 20161228022155
+77.78.38.28 2 2 0 20161229034307
+124.123.78.91 4 4 6352 20161227114907
+79.131.210.174 2 2 0 20161230200206
+82.79.190.43 2 2 0 20161228204154
+64.233.173.153 1 26 471839 20161226192034
+117.212.180.155 2 2 0 20161231075139
+120.28.191.6 1 1 0 20161230131313
+110.44.127.194 2 22 735709 20161226224109
+66.249.93.91 0 1 7773 
+188.241.25.65 2 2 0 20161229205303
+79.101.21.76 4 4 6352 20161227021836
+117.200.224.55 2 2 0 20161231204512
+182.185.215.135 0 1 16926 
+176.248.114.67 4 4 6352 20161226193828
+124.41.219.143 5 77 2226534 20161226231343
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20161226 353 1546 49708888 41
+20161227 365 940 23928805 33
+20161228 70 96 1235043 18
+20161229 94 131 1599957 18
+20161230 20 23 196066 11
+20161231 54 56 61750 28
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 3
+2mn-5mn 1
+30s-2mn 4
+15mn-30mn 3
+0s-30s 133
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 59
+/xmlrpc.php 197 0 102 82
+/phpmyadmin/js/get_scripts.js.php 106 7866153 0 2
+/theblog/wp-admin/load-scripts.php 82 3637579 0 1
+/phpmyadmin/ 75 205650 5 1
+/wp-login.php 56 174634 3 21
+/ 44 1864314 28 17
+/theblog/wp-admin/load-styles.php 40 3623608 0 0
+/theblog/wp-admin/admin-ajax.php 36 16912 0 2
+/phpmyadmin/sql.php 33 255447 0 0
+/phpmyadmin/js/whitelist.php 26 12350 0 0
+/event/investment-portfolio-management/ 1 33858 0 1
+/history/ 3 73464 2 1
+/theblog/wp-admin/edit.php 11 620822 0 0
+/gallery/wp-content/themes/blogim/assets/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/wp-admin/load-styles.php 12 461220 0 1
+/event/category/events/ 1 28969 0 0
+/history/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff 3 196356 1 1
+/gallery/ 2 123518 0 0
+/theblog/wp-content/themes/blogim/assets/fonts/fontawesome-webfont.woff 1 71508 0 0
+/phpmyadmin/tbl_change.php 4 32163 0 0
+/phpmyadmin/lint.php 2 56 0 0
+/hack-a-week/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff 1 65452 0 1
+/phpmyadmin/tbl_operations.php 1 6465 0 0
+/wordpress/wp-login.php 2 5424 0 0
+/hack-a-week/ 7 706426 5 3
+/phpmyadmin/db_structure.php 15 240957 0 0
+/phpmyadmin/phpmyadmin.css.php 23 461380 0 0
+/phpmyadmin/tbl_triggers.php 1 2049 0 0
+/event/wp-content/themes/blogim/assets/fonts/fontawesome-webfont.woff2 4 227120 0 1
+/phpmyadmin/tbl_sql.php 2 9296 0 0
+/theblog/wp-admin/ 16 1063055 0 0
+/event/ 6 203748 1 1
+/phpmyadmin/tbl_select.php 3 14797 0 0
+/phpmyadmin/db_operations.php 1 5399 0 0
+/phpmyadmin/tbl_structure.php 2 20126 0 0
+/phpmyadmin/version_check.php 8 328 0 0
+/wp-signup.php 2 42226 0 1
+/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.woff 16 1047232 1 7
+/theblog/wp-admin/my-sites.php 8 285064 0 0
+/codecamp/ 2 67196 0 0
+/event/category/uncategorized/ 1 27248 0 0
+/theblog/ 5 172447 0 0
+/codejam/ 3 56307 0 1
+/phpmyadmin/tbl_replace.php 2 10571 0 0
+/phpmyadmin/navigation.php 18 61928 0 0
+/theblog/wp-admin/profile.php 4 195727 0 0
+/wp-content/plugins/photo-gallery/css/font-awesome/fonts/fontawesome-webfont.ttf 1 112160 0 0
+/phpmyadmin/js/messages.php 26 219024 0 1
+/phpmyadmin/db_sql.php 1 4166 0 0
+/phpmyadmin/js/get_image.js.php 21 38493 0 0
+/theblog/wp-admin/edit-comments.php 2 434814 0 0
+/theblog/wp-content/themes/blogim/assets/fonts/fontawesome-webfont.woff2 3 170340 0 1
+/theblog/wp-admin/upload.php 2 173766 0 0
+/phpmyadmin/tbl_row_action.php 3 7661 0 1
+/photography/ 1 24539 0 0
+/theblog/wp-admin/tools.php 3 130353 0 0
+/phpmyadmin/tbl_relation.php 1 5148 0 0
+/phpmyadmin/server_privileges.php 1 1471 0 0
+/theblog/call-for-papers/ 2 69119 1 1
+END_SIDER

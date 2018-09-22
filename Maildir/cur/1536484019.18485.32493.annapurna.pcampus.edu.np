@@ -1,0 +1,104 @@
+From MAILER-DAEMON  Fri Dec 16 15:17:11 2016
+Return-Path: <>
+X-Original-To: locus@annapurna.pcampus.edu.np
+Delivered-To: locus@annapurna.pcampus.edu.np
+Received: by annapurna.pcampus.edu.np (Postfix) id 309C64213FA4; Fri, 16 Dec 2016 15:17:11 +0545 (NPT)
+Date: Fri, 16 Dec 2016 15:17:11 +0545 (NPT)
+From: MAILER-DAEMON@annapurna.pcampus.edu.np (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: locus@annapurna.pcampus.edu.np
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="2C5644210F6E.1481880731/annapurna.pcampus.edu.np"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20161216093211.309C64213FA4@annapurna.pcampus.edu.np>
+
+This is a MIME-encapsulated message.
+
+--2C5644210F6E.1481880731/annapurna.pcampus.edu.np
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host annapurna.pcampus.edu.np.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<bjgurung10@gmail.com>: host gmail-smtp-in.l.google.com[74.125.68.26] said:
+    550-5.7.1 [103.5.150.16      12] Our system has detected that this message
+    is 550-5.7.1 likely unsolicited mail. To reduce the amount of spam sent to
+    Gmail, 550-5.7.1 this message has been blocked. Please visit 550-5.7.1
+    https://support.google.com/mail/?p=UnsolicitedMessageError 550 5.7.1  for
+    more information. g65si6902089pfk.269 - gsmtp (in reply to end of DATA
+    command)
+
+--2C5644210F6E.1481880731/annapurna.pcampus.edu.np
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; annapurna.pcampus.edu.np
+X-Postfix-Queue-ID: 2C5644210F6E
+X-Postfix-Sender: rfc822; locus@annapurna.pcampus.edu.np
+Arrival-Date: Fri, 16 Dec 2016 15:17:06 +0545 (NPT)
+
+Final-Recipient: rfc822; bjgurung10@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [103.5.150.16      12] Our system has detected
+    that this message is 550-5.7.1 likely unsolicited mail. To reduce the
+    amount of spam sent to Gmail, 550-5.7.1 this message has been blocked.
+    Please visit 550-5.7.1
+    https://support.google.com/mail/?p=UnsolicitedMessageError 550 5.7.1  for
+    more information. g65si6902089pfk.269 - gsmtp
+
+--2C5644210F6E.1481880731/annapurna.pcampus.edu.np
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <locus@annapurna.pcampus.edu.np>
+Received: by annapurna.pcampus.edu.np (Postfix, from userid 505)
+	id 2C5644210F6E; Fri, 16 Dec 2016 15:17:06 +0545 (NPT)
+To: bjgurung10@gmail.com
+Subject: [Locus Blog] Please moderate: "Call For Papers"
+X-PHP-Originating-Script: 505:class-phpmailer.php
+Date: Fri, 16 Dec 2016 09:32:06 +0000
+From: WordPress <wordpress@locus.ioe.edu.np>
+Message-ID: <1033cada4b653883d3bfbe300bcb4799@locus.ioe.edu.np>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Call For Papers" is waiting for your approval
+http://locus.ioe.edu.np/theblog/call-for-papers/
+
+Author: Bernardhoani (IP: 146.185.223.47, 146.185.223.47)
+Email: bernardmix@mail.ru
+URL: http://choiceofgreatness.com/bewerbungsmuster-raumpflegerin
+Comment: 
+essay zum thema natur deutsch grammatik Гјbungen kostenlos  http://classifieds.24hourhomebusiness.com/satzanfГ¤nge-essay-englisch - SatzanfГ¤nge essay englischbГјcher schreiben und verkaufen  
+masterarbeit gehalt  [url=http://classifieds.24hourhomebusiness.com/doppelte-mitlaute-Гјbungen-grundschule]Doppelte mitlaute Гјbungen grundschule[/url]kurzbewerbung altenpflege  
+[url=http://ipas2sales.com/was-ist-glГјck-essay]Was ist glГјck essay[/url]
+ 
+doktorarbeit nachtrГ¤glich korrigieren exzerpt schreiben beispiel  http://compatiblemedia.co.uk/less/index.php?q=uni-bielefeld-jura-hausarbeiten - Uni bielefeld jura hausarbeitentitel bachelorarbeit beispiel  
+executive summary beispiel bachelorarbeit  [url=http://choiceofgreatness.com/plakat-buchvorstellung-grundschule]Plakat buchvorstellung grundschule[/url]ebay korrekturlesen  
+uni potsdam masterarbeit anmelden  [url=http://bosseswebbiz.net/aufgabenstellung-diplomarbeit]Aufgabenstellung diplomarbeit[/url]ghostwriter hausarbeit kosten
+
+Approve it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=approve&c=118#wpbody-content
+Trash it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=trash&c=118#wpbody-content
+Spam it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=spam&c=118#wpbody-content
+Currently 113 comments are waiting for approval. Please visit the moderation panel:
+http://locus.ioe.edu.np/theblog/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--2C5644210F6E.1481880731/annapurna.pcampus.edu.np--
+

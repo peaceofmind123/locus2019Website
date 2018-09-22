@@ -1,0 +1,104 @@
+From MAILER-DAEMON  Fri Dec 16 06:25:14 2016
+Return-Path: <>
+X-Original-To: locus@annapurna.pcampus.edu.np
+Delivered-To: locus@annapurna.pcampus.edu.np
+Received: by annapurna.pcampus.edu.np (Postfix) id 8322A4213FA4; Fri, 16 Dec 2016 06:25:14 +0545 (NPT)
+Date: Fri, 16 Dec 2016 06:25:14 +0545 (NPT)
+From: MAILER-DAEMON@annapurna.pcampus.edu.np (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: locus@annapurna.pcampus.edu.np
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="5C0DF4210F67.1481848814/annapurna.pcampus.edu.np"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20161216004014.8322A4213FA4@annapurna.pcampus.edu.np>
+
+This is a MIME-encapsulated message.
+
+--5C0DF4210F67.1481848814/annapurna.pcampus.edu.np
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host annapurna.pcampus.edu.np.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<bibekdahal.bd16@gmail.com>: host gmail-smtp-in.l.google.com[74.125.68.26]
+    said: 550-5.7.1 [103.5.150.16      12] Our system has detected that this
+    message is 550-5.7.1 likely unsolicited mail. To reduce the amount of spam
+    sent to Gmail, 550-5.7.1 this message has been blocked. Please visit
+    550-5.7.1  https://support.google.com/mail/?p=UnsolicitedMessageError 550
+    5.7.1  for more information. c32si4671854plj.288 - gsmtp (in reply to end
+    of DATA command)
+
+--5C0DF4210F67.1481848814/annapurna.pcampus.edu.np
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; annapurna.pcampus.edu.np
+X-Postfix-Queue-ID: 5C0DF4210F67
+X-Postfix-Sender: rfc822; locus@annapurna.pcampus.edu.np
+Arrival-Date: Fri, 16 Dec 2016 06:25:10 +0545 (NPT)
+
+Final-Recipient: rfc822; bibekdahal.bd16@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [103.5.150.16      12] Our system has detected
+    that this message is 550-5.7.1 likely unsolicited mail. To reduce the
+    amount of spam sent to Gmail, 550-5.7.1 this message has been blocked.
+    Please visit 550-5.7.1
+    https://support.google.com/mail/?p=UnsolicitedMessageError 550 5.7.1  for
+    more information. c32si4671854plj.288 - gsmtp
+
+--5C0DF4210F67.1481848814/annapurna.pcampus.edu.np
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <locus@annapurna.pcampus.edu.np>
+Received: by annapurna.pcampus.edu.np (Postfix, from userid 505)
+	id 5C0DF4210F67; Fri, 16 Dec 2016 06:25:10 +0545 (NPT)
+To: bibekdahal.bd16@gmail.com
+Subject: [Locus Blog] Please moderate: "Call For Papers"
+X-PHP-Originating-Script: 505:class-phpmailer.php
+Date: Fri, 16 Dec 2016 00:40:10 +0000
+From: WordPress <wordpress@locus.ioe.edu.np>
+Message-ID: <73dfbe403d9486b6253f9a02746d593f@locus.ioe.edu.np>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Call For Papers" is waiting for your approval
+http://locus.ioe.edu.np/theblog/call-for-papers/
+
+Author: Bernardhoani (IP: 146.185.223.47, 146.185.223.47)
+Email: bernardmix@mail.ru
+URL: http://anygateway.com/notes/index.php?q=bewerbungsschreiben-maschinenbau
+Comment: 
+autoren gesucht verlag bachelorarbeit uni mainz philosophie  http://classifieds.24hourhomebusiness.com/bewerbungsschreiben-staplerfahrer - Bewerbungsschreiben staplerfahrerexpose Гјbersetzung englisch  
+maschinenbau diplomarbeit  [url=http://ipas2sales.com/manga-schreiben-tipps]Manga schreiben tipps[/url]vergleichsarbeiten klasse 3 deutsch Гјbungen  
+[url=http://compatiblemedia.co.uk/less/index.php?q=essay-writing-english]Essay writing english[/url]
+ 
+gerund englisch Гјbungen klasse 10 schreib dein buch  http://choiceofgreatness.com/zeiten-lernen-deutsch-grundschule - Zeiten lernen deutsch grundschulea1 zertifikat deutsch Гјbungen  
+lektorat kiel test  [url=http://anygateway.com/notes/index.php?q=roman-polanski-ghostwriter]Roman polanski ghostwriter[/url]englisch Гјbungen zeiten mix  
+bachelorarbeit personalmanagement themen  [url=http://bosseswebbiz.net/englisch-Гјbungen-simple-present]Englisch Гјbungen simple present[/url]bewerbungsschreiben teamfГ¤higkeit
+
+Approve it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=approve&c=117#wpbody-content
+Trash it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=trash&c=117#wpbody-content
+Spam it: http://locus.ioe.edu.np/theblog/wp-admin/comment.php?action=spam&c=117#wpbody-content
+Currently 112 comments are waiting for approval. Please visit the moderation panel:
+http://locus.ioe.edu.np/theblog/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--5C0DF4210F67.1481848814/annapurna.pcampus.edu.np--
+

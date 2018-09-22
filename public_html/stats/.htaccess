@@ -1,0 +1,7 @@
+AuthName "locus.pcampus.edu.np statistics"
+AuthType Basic
+AuthUserFile /home/locus/locus/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

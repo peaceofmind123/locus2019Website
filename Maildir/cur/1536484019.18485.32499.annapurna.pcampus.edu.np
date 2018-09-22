@@ -1,0 +1,82 @@
+From MAILER-DAEMON  Fri Jan  5 18:01:03 2018
+Return-Path: <>
+X-Original-To: locus@annapurna.pcampus.edu.np
+Delivered-To: locus@annapurna.pcampus.edu.np
+Received: by annapurna.pcampus.edu.np (Postfix) id 9316D420EA43; Fri,  5 Jan 2018 18:01:03 +0545 (+0545)
+Date: Fri,  5 Jan 2018 18:01:03 +0545 (+0545)
+From: MAILER-DAEMON@annapurna.pcampus.edu.np (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: locus@annapurna.pcampus.edu.np
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="3126440A78AA.1515154563/annapurna.pcampus.edu.np"
+Message-Id: <20180105121603.9316D420EA43@annapurna.pcampus.edu.np>
+
+This is a MIME-encapsulated message.
+
+--3126440A78AA.1515154563/annapurna.pcampus.edu.np
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host annapurna.pcampus.edu.np.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<you@example.com>: connect to
+    example.com[2606:2800:220:1:248:1893:25c8:1946]:25: Network is unreachable
+
+--3126440A78AA.1515154563/annapurna.pcampus.edu.np
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; annapurna.pcampus.edu.np
+X-Postfix-Queue-ID: 3126440A78AA
+X-Postfix-Sender: rfc822; locus@annapurna.pcampus.edu.np
+Arrival-Date: Sun, 31 Dec 2017 17:04:47 +0545 (+0545)
+
+Final-Recipient: rfc822; you@example.com
+Action: failed
+Status: 4.4.1
+Diagnostic-Code: X-Postfix; connect to
+    example.com[2606:2800:220:1:248:1893:25c8:1946]:25: Network is unreachable
+
+--3126440A78AA.1515154563/annapurna.pcampus.edu.np
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <locus@annapurna.pcampus.edu.np>
+Received: by annapurna.pcampus.edu.np (Postfix, from userid 505)
+	id 3126440A78AA; Sun, 31 Dec 2017 17:04:47 +0545 (+0545)
+To: you@example.com
+Subject: [LOCUS 2018] Notice of Admin Email Change
+X-PHP-Originating-Script: 505:class-phpmailer.php
+Date: Sun, 31 Dec 2017 11:19:47 +0000
+From: WordPress <wordpress@locus.pcampus.edu.np>
+Message-ID: <95c118c1abb436470800143487489c08@locus.pcampus.edu.np>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi,
+
+This notice confirms that the admin email address was changed on LOCUS 2018.
+
+The new admin email address is joshi.gorakh1@hotmail.com.
+
+This email has been sent to you@example.com
+
+Regards,
+All at LOCUS 2018
+https://locus.pcampus.edu.np
+
+
+--3126440A78AA.1515154563/annapurna.pcampus.edu.np--
+

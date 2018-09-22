@@ -1,0 +1,22 @@
+From webmin@annapurna.pcampus.edu.np  Mon Sep 18 09:08:39 2017
+Return-Path: <webmin@annapurna.pcampus.edu.np>
+X-Original-To: locus@annapurna.pcampus.edu.np
+Delivered-To: locus@annapurna.pcampus.edu.np
+Received: by annapurna.pcampus.edu.np (Postfix, from userid 0) id 78BA8420F591; Mon, 18 Sep 2017 09:08:39 +0545 (+0545)
+From: webmin@annapurna.pcampus.edu.np
+To: locus@annapurna.pcampus.edu.np
+Subject: Let's Encrypt certificate renewal complete
+Date: Mon, 18 Sep 2017 09:08:37 +0545 (+0545)
+Message-Id: <1505705017.26835.1@annapurna.pcampus.edu.np>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bound1505705017"
+
+This is a multi-part message in MIME format.
+
+--bound1505705017
+Content-type: text/plain
+
+A new certificate was successfully requested from Let's Encrypt, and installed for locus.pcampus.edu.np.
+
+--bound1505705017--
+
